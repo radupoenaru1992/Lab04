@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+D:\PDSD\Lab04\Lab04\.metadata\.plugins\org.eclipse.jdt.core
+1055043418.index
+3719898941.index
+2444744133.index
